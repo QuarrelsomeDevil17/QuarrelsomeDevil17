@@ -7,11 +7,11 @@ I’m a fourth-year student at Apex Institute of Technology, Chandigarh Universi
 ---
 
 ### **Programming Languages**
-<img src="https://github.com/username/repo/blob/main/cplusplus-logo.png" alt="C++ Logo" width="30"/> **C++**  
-<img src="https://github.com/username/repo/blob/main/python-logo.png" alt="Python Logo" width="30"/> **Python**  
-<img src="https://github.com/username/repo/blob/main/html-logo.png" alt="HTML Logo" width="30"/> **HTML**  
-<img src="https://github.com/username/repo/blob/main/css-logo.png" alt="CSS Logo" width="30"/> **CSS**  
-<img src="https://github.com/username/repo/blob/main/sql-logo.png" alt="SQL Logo" width="30"/> **SQL**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Technical Skills**
 - **Machine Learning, Deep Learning, Data Analysis, Computer Vision, NLP**
