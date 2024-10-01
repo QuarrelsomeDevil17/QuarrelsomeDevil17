@@ -2,7 +2,7 @@
 
 <img src="https://github.com/QuarrelsomeDevil17/QuarrelsomeDevil17/blob/main/banner.png" alt="Surya's Banner" width="100%">
 
-I’m a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a **Bachelor of Technology** in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. I have a passion for AI, ML, and cloud technologies. 
+I’m a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a **Bachelor of Technology** in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. I'm a tech and car enthusiast! I’m intrigued by how machine learning and deep learning are used in Formula 1 to analyze data points. The perfect blend of speed and tech 
 
 ---
 
