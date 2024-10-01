@@ -33,6 +33,7 @@ I’m a fourth-year student at Apex Institute of Technology, Chandigarh Universi
   - NLP on Google Cloud  
 - **IBM Data Science Specialization**
 
+<!--
 ---
 
 ## 📊 **GitHub Stats**
@@ -41,7 +42,7 @@ I’m a fourth-year student at Apex Institute of Technology, Chandigarh Universi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuarrelsomeDevil17&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuarrelsomeDevil17&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
-
+-->
 ---
 
 ## 📧 **Get in Touch**
@@ -49,9 +50,10 @@ I’m a fourth-year student at Apex Institute of Technology, Chandigarh Universi
 [![Email](https://img.shields.io/badge/Email-suryapratap007singh@gmail.com-red?style=flat-square&logo=gmail)](mailto:suryapratap007singh@gmail.com)
 
 ---
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=QuarrelsomeDevil17&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
+-->
 
 
