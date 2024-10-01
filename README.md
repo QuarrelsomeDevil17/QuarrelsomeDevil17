@@ -1,58 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Surya Pratap Singh 👋
 
-# Surya Pratap Singh
+<img src="https://github.com/QuarrelsomeDevil17/QuarrelsomeDevil17/blob/main/banner.png" alt="Surya's Banner" width="100%">
 
-I am a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning.
-
-## 🛠️ Skills
-
-**Programming Languages:**  
-- Python  
-- C++  
-- HTML/CSS  
-- SQL
-
-**Technical Skills:**  
-- Machine Learning  
-- Deep Learning  
-- Data Analysis  
-- Computer Vision  
-- NLP  
-- Git  
-- MySQL  
-- Cloud Computing (Google Cloud, Azure)  
-- DevOps  
-- TensorFlow  
-- Keras  
-- MS Excel
-
-**Tools & Frameworks:**  
-- GitHub  
-- Tableau  
-- CMS/Framework  
-- OpenCV  
-- Pillow
-
-**Cloud Platforms:**  
-- Google Cloud  
-- Microsoft Azure
+I’m a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a **Bachelor of Technology** in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. I have a passion for AI, ML, and cloud technologies. 
 
 ---
 
-## 📜 Certifications
+## 🛠️ **Skills**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Technical Skills**
+- **Machine Learning, Deep Learning, Data Analysis, Computer Vision, NLP**
+- **Cloud Computing (Google Cloud, Azure), DevOps**
+- **TensorFlow, Keras, OpenCV, Git, MySQL**
+
+---
+
+## 🚀 **Certifications**
 
 - **Microsoft Certified:** Azure Administrator Associate  
-- **Google Cloud Courses:**  
-  - Computer Vision Fundamentals  
+- **Google Cloud:**  
+  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FCC624?style=flat-square) 
+  ![Advanced ML](https://img.shields.io/badge/Advanced_ML-0F9D58?style=flat-square)
+  ![NLP](https://img.shields.io/badge/NLP-DB4437?style=flat-square)
+  - Computer Vision Fundamentals
   - Advanced Machine Learning  
-  - Recommendation Systems  
-  - Production Machine Learning Systems  
   - NLP on Google Cloud  
-- **IBM Introduction to Data Science Specialization**
+- **IBM Data Science Specialization**
 
 ---
 
-## 📧 Contact
+## 📊 **GitHub Stats**
 
-Feel free to reach out to me at: [suryapratap007singh@gmail.com](mailto:suryapratap007singh@gmail.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuarrelsomeDevil17&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuarrelsomeDevil17&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 📧 **Get in Touch**
+
+[![Email](https://img.shields.io/badge/Email-suryapratap007singh@gmail.com-red?style=flat-square&logo=gmail)](mailto:suryapratap007singh@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuarrelsomeDevil17&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
 
