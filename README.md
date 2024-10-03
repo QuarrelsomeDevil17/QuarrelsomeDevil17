@@ -1,6 +1,6 @@
 # Hi there, I'm Surya Pratap Singh 👋
-
-<img src="<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/11KzOet1ElBDz2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">via GIPHY</a></p>" alt="Surya's Banner" width="100%">
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/11KzOet1ElBDz2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">via GIPHY</a></p>
+<img src=""alt="Surya's Banner" width="100%">
 
 I’m a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a **Bachelor of Technology** in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. I'm a tech and car enthusiast! I’m intrigued by how machine learning and deep learning are used in Formula 1 to analyze data points. The perfect blend of speed and tech 
 
