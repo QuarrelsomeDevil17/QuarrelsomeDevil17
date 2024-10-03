@@ -1,8 +1,9 @@
 # Hi there, I'm Surya Pratap Singh 👋
 
+<!--
 <img src="https://giphy.com/embed/11KzOet1ElBDz2" alt="Surya's Banner" width="100%">
-
-I’m a fourth-year student at Apex Institute of Technology, Chandigarh University, pursuing a **Bachelor of Technology** in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. I'm a tech and car enthusiast! I’m intrigued by how machine learning and deep learning are used in Formula 1 to analyze data points. The perfect blend of speed and tech 
+-->
+I'm a tech and car enthusiast! I’m intrigued by how machine learning and deep learning are used in Formula 1 to analyze data points. The perfect blend of speed and tech. Currently, I'm a final-year student at Apex Institute of Technology, Chandigarh University, pursuing a *Bachelor of Technology* in *Computer Science* with a specialization in *Artificial Intelligence and Machine Learning*. 
 
 ---
 
@@ -41,7 +42,7 @@ I’m a fourth-year student at Apex Institute of Technology, Chandigarh Universi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuarrelsomeDevil17&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuarrelsomeDevil17&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
--->
+
 ---
 
 ## 📧 **Get in Touch**
